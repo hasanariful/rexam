@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.colorSpan{
+    color: #FF5A3C;
+}
